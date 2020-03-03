@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorCard">#e7e7e7</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorBase">#d5d4d4</color>
+    <color name="colorText">#757575</color>
+
+    <color name="colorInfoDialog">#06a5ff</color>
+    <color name="colorAlertDialog">#ffcc00</color>
+    <color name="colorErrorDialog">#cf0000</color>
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="layoutFormPadding">8dp</dimen>
+    <dimen name="defaultElevation">4px</dimen>
+
+</resources>

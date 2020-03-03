@@ -1,0 +1,2 @@
+include ':app', ':lightdialog'
+rootProject.name='App Test Light Dialog'

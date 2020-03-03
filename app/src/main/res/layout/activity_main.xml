@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <Button
-        android:id="@+id/bt_click"
+        android:id="@+id/bt_info_oneButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/colorPrimary"

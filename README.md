@@ -8,5 +8,4 @@ If you are tired of create a big codes and stay think in how to create yours pop
 Right, the first step is add this lib a your dependency and configure your project:
 
 
-
 [![](https://jitpack.io/v/michel566/Light-Dialog.svg)](https://jitpack.io/#michel566/Light-Dialog)

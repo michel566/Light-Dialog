@@ -23,8 +23,11 @@ dependencies {
 }
 
 
-You need change this ":Tag" for the current version of this lib
-And, yes. I copy this explaination of the Jitpack... :)
+You need change this ":Tag" for the last release of this lib, in moment of write this, this release is 0.11.
+
+And, yes. I copy this explaination of the Jitpack... :) .
+
+
 
 
 

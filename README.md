@@ -123,7 +123,7 @@ KOTLIN EXAMPLE:
 <h2>Dialog types</h2>
 
 We use a default style in the dialog, a clean style to attendance to major cases, but we want in future releases, 
-give you the opportunity to create your own layout, and insert it into our lib. But in any case, you are free to copy my project and adapt it to your greatest need, as long as it meets the requirements of the GPL.
+give you the opportunity to create your own layout, and insert it into our lib. But in any case, you are free to copy my project and adapt it to your greatest need, as long as it meets the requirements of the GNU.
 
 We have a three default dialog types with three levels of criticality of this application, what you can call it through DialogType enum:
 
